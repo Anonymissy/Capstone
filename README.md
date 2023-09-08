@@ -1,1 +1,1 @@
-# This is a capstone project for Data Science Immersive Course
+Capstone project for Data Science Immersive Course
